@@ -1,0 +1,21 @@
+# Ignorar archivos de datos comunes
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+
+# Ignorar archivos de documentos
+*.doc
+*.docx
+*.rtf
+*.odt
+
+# Ignorar archivos de texto plano
+*.txt
+
+# Ignorar archivos JSON (usualmente de configuración o datos temporales)
+*.json
+
+# Opcional: Ignorar directorios de sistemas operativos (ej. macOS y Windows)
+.DS_Store
+Thumbs.db
